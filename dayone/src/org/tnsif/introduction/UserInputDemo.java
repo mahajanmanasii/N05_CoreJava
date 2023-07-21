@@ -9,7 +9,7 @@ public class UserInputDemo {
 		// TODO Auto-generated method stub
            Scanner s= new Scanner(System.in);
            
-          /* System.out.println("Enter the value of num");
+           System.out.println("Enter the value of num");
            int num=s.nextInt();
            System.out.println("The value of num is"+ num);
            
@@ -18,7 +18,7 @@ public class UserInputDemo {
            System.out.println("The value of num is"+ num1);
            
            char c=s.next().charAt(0);
-           System.out.println("Character is " +c);*/
+           System.out.println("Character is " +c);
            
            System.out.println("Enter the String");
            String str1=s.nextLine();
