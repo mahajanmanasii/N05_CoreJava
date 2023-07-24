@@ -7,6 +7,7 @@ public class WhileExecutor
 
 	public static void main(String[] args) 
 	{
+		@SuppressWarnings("resource")
 		Scanner s = new Scanner(System.in);
 		int n=s.nextInt();
 		int i=1;
