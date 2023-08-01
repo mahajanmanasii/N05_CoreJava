@@ -15,7 +15,7 @@ public class InstanceOfExecutor {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
      Rose r= new Rose();
-    /* if (r instanceof Flower)
+    /* if (r instance of Flower)
      {
     	 System.out.println("True");
      }
